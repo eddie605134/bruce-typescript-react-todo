@@ -103,16 +103,7 @@ function App() {
         })
       }
 
-      <Title>List2</Title>
       {isLoading && <p>Loading</p>}
-      {
-        !isLoading && (
-          <div>
-            <p>USER ID: {userId}</p>
-            <p>USER TITLE: {title}</p>
-          </div>
-        )
-      }
     </Wrapper>
   );
 }

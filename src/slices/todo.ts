@@ -5,7 +5,7 @@ interface InitialState {
 }
 
 const initialState: InitialState = {
-  todoList: ["todo...."]
+  todoList: []
 }
 
 export const todoSlice = createSlice({
