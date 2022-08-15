@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bruce-typescript-react-todo/static/css/main.e6c13ad2.css",
+    "main.js": "/bruce-typescript-react-todo/static/js/main.72b7c197.js",
+    "index.html": "/bruce-typescript-react-todo/index.html",
+    "main.e6c13ad2.css.map": "/bruce-typescript-react-todo/static/css/main.e6c13ad2.css.map",
+    "main.72b7c197.js.map": "/bruce-typescript-react-todo/static/js/main.72b7c197.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.72b7c197.js"
+  ]
+}
